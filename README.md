@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Richard</h1>
-<h3 align="center">I'm a front-end and mobile developer and a technology enthusiast.</h3>
+<h1 >Hi 👋, I'm Richard</h1>
+<h3>I'm a front-end and mobile developer and a technology enthusiast.</h3>
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
