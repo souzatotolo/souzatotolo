@@ -1,4 +1,4 @@
-
+<div align="center">
 <h1 >Hi 👋, I'm Richard</h1>
 <h3>I'm a front-end and mobile developer and especially a technology enthusiast.</h3>
 
@@ -14,3 +14,4 @@
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souzatotolo&label=Profile%20views&color=0e75b6&style=flat" alt="souzatotolo" /> </p>
+</div>
